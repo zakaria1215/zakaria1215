@@ -5,7 +5,6 @@
 👨‍💻 Personal Profile
 
 I am **Muhammad Zakaria**, a Software Engineering student at **Daffodil International University** with a strong interest in software development and emerging technologies. I enjoy solving problems through programming and continuously improving my technical skills by learning new tools and technologies.
-
 I am particularly interested in **Web Development, Software Design, and Full-Stack Development**. I am a motivated learner who values teamwork, adaptability, and continuous improvement, and I aim to build software solutions that have a positive real-world impact.
 
 - 📫 How to reach me **muhammadzakaria1215@gmail.com**
@@ -25,7 +24,6 @@ I am particularly interested in **Web Development, Software Design, and Full-Sta
 - HTML
 - CSS
 - React
-
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria1215&show_icons=true&locale=en&layout=compact" alt="zakaria1215" /></p>
+<h3 align="center"> "Code with purpose. Learn continuously. Build for impact." </h3>

@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" scr"![Uploading image.png…]()
+<img align="right" alt="coding" width="400" scr="![Uploading image.png…]()
 ">
 
 <p align="left">

@@ -8,8 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="coding" width="400" scr="![Uploading image.png…]()
-">
+![logo]()
 
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/share/16rcxjzxde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16rcxjzxde/" height="30" width="40" /></a>

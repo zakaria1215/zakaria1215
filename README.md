@@ -1,4 +1,4 @@
-![logo](https://github.com/zakaria1215/zakaria1215/commit/c13381dd54781138b3cd1e8d251a148a4b608785)
+![logo](https://github.com/zakaria1215/zakaria1215/blob/main/WhatsApp%20Image%202026-07-25%20at%2010.03.33%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Muhammad Zakaria</h1>
 <h3 align="center">Passionate about building software that solves real-world problems from Bangladesh</h3>
 

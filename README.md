@@ -4,12 +4,9 @@
 
 - 📫 How to reach me **muhammadzakaria1215@gmail.com**
 
-- ⚡ Fun fact **chill**
-
+- ⚡ **chill**
+![logo](https://github.com/zakaria1215/zakaria1215/blob/main/giphy.gif)
 <h3 align="left">Connect with me:</h3>
-
-![logo]()
-
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/share/16rcxjzxde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16rcxjzxde/" height="30" width="40" /></a>
 <a href="https://instagram.com/md_zakaria_.15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_zakaria_.15" height="30" width="40" /></a>
